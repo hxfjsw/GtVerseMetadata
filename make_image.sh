@@ -1,0 +1,1 @@
+ffmpeg -i ./docs/video/test.mp4 -ss 1 -f image2 ./docs/images/test.jpg
