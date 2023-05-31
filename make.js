@@ -4,7 +4,20 @@ const template = {
     "name": "HTML5 Shiv",
     "image": "https://hxfjsw.github.io/GtVerseMetadata/images/test.jpg",
     "animation_url": "https://hxfjsw.github.io/GtVerseMetadata/video/test.mp4",
-    "attributes": []
+    "attributes": [
+        {
+            "trait_type": "MaxSpeed",
+            "value": "220 km/h"
+        },
+        {
+            "trait_type": "MaxTorque",
+            "value": "320 Nm"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1,415 kg"
+        }
+    ]
 }
 
 function deep_copy(obj) {
