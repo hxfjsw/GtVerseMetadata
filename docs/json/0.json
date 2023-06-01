@@ -1,1 +1,23 @@
-{"name":"#0 Abarth 500 Assetto Corse","image":"https://hxfjsw.github.io/GtVerseMetadata/images/mustun.jpg","animation_url":"https://hxfjsw.github.io/GtVerseMetadata/video/mustun.mp4","attributes":[{"trait_type":"MaxSpeed","value":"220 km/h"},{"trait_type":"MaxTorque","value":"300 nm"},{"trait_type":"Weight","value":"1005 kg"},{"trait_type":"Brand","value":"Abarth"}]}
+{
+  "name": "#0 Abarth 500 Assetto Corse",
+  "image": "https://hxfjsw.github.io/GtVerseMetadata/images/Main5.jpg",
+  "animation_url": "https://hxfjsw.github.io/GtVerseMetadata/video/Main5.mp4",
+  "attributes": [
+    {
+      "trait_type": "MaxSpeed",
+      "value": "220 km/h"
+    },
+    {
+      "trait_type": "MaxTorque",
+      "value": "300 nm"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "1005 kg"
+    },
+    {
+      "trait_type": "Brand",
+      "value": "Abarth"
+    }
+  ]
+}
