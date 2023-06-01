@@ -1,1 +1,23 @@
-{"name":"#2 Alfa Romeo 4C","image":"https://hxfjsw.github.io/GtVerseMetadata/images/test.jpg","animation_url":"https://hxfjsw.github.io/GtVerseMetadata/video/test.mp4","attributes":[{"trait_type":"MaxSpeed","value":"258 km/h"},{"trait_type":"MaxTorque","value":"350 nm"},{"trait_type":"Weight","value":"1025 kg"},{"trait_type":"Brand","value":"Alfa_Romeo"}]}
+{
+  "name": "#2 Alfa Romeo 4C",
+  "image": "https://hxfjsw.github.io/GtVerseMetadata/images/Main3.jpg",
+  "animation_url": "https://hxfjsw.github.io/GtVerseMetadata/video/Main3.mp4",
+  "attributes": [
+    {
+      "trait_type": "MaxSpeed",
+      "value": "258 km/h"
+    },
+    {
+      "trait_type": "MaxTorque",
+      "value": "350 nm"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "1025 kg"
+    },
+    {
+      "trait_type": "Brand",
+      "value": "Alfa_Romeo"
+    }
+  ]
+}
