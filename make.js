@@ -887,6 +887,9 @@ for (let i = 0; i < 100; i++) {
     let metadata = deep_copy(template);
     const define = defines[i % defines.length];
     metadata.name = "#" + i +" " + define.Name.replaceAll('_', ' ');
+    metadata.image = "https://hxfjsw.github.io/GtVerseMetadata/images/" + define.Name + ".jpg";
+    metadata.animation_url = "https://hxfjsw.github.io/GtVerseMetadata/video/" + define.Name + ".mp4";
+
     console.log(metadata);
     metadata.attributes[0].value = define.MaxSpeed + " km/h";
     metadata.attributes[1].value = define.MaxTorque + " nm";
